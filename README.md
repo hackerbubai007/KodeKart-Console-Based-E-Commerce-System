@@ -1,14 +1,35 @@
-# KodeKart-Console-Based-E-Commerce-System
-A fully functional Java console-based e-commerce application built with JDBC, MySQL, and OOP principles. KodeKart simulates the core flow of an online shopping system — from user registration to cart management — all through an interactive command-line interface.
+# 📦 KodeKart – Console-Based E-Commerce System
 
-KodeKart is a feature-rich e-commerce system that provides:
+KodeKart is a **console-based mini E-commerce application** built using **Core Java**, **MySQL**, and **JDBC**.  
+Users can register, browse products, manage their shopping cart, and place orders.  
+Admins can manage products and view all orders.
 
-User Management - Registration, login, and role-based access
+This project demonstrates Core Java OOP concepts, JDBC CRUD operations, console interaction, and a clean layered architecture.
 
-Product Catalog - Browse and manage products
+---
 
-Shopping Cart - Add, view, and manage items
+## 🚀 Features
 
-Order Processing - Secure order placement
+### 👤 User Features
+- Register and Login
+- View All Products
+- Search Product by Name or Category
+- Add Products to Cart
+- Remove Items from Cart
+- View Cart Items
+- Place Order (auto-updates stock)
+- View Order History
+- Logout
 
-Admin Panel - Administrative controls for inventory management    
+### 🔐 Admin Features
+- Add New Product
+- Update Product
+- Delete Product
+- View All Products
+- View All Orders
+- Logout
+
+---
+
+## 🗂 Project Structure
+
